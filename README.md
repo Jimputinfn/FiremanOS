@@ -1,4 +1,4 @@
-# FiremanOS
+# FiremanOS Maker
 Official Github Page for FiremanOS
 
 
